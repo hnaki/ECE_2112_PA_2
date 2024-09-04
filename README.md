@@ -57,6 +57,7 @@ From this ndarray, determine all the elements that are divisible by 3. Save the 
 
 This program will generate an arranged array from 1 to 100 and will be reshaped in a 10 by 10 2D dimensional array. The values will be the squares of the first 10 positive integers. After that, the program will determine the integers that are divisible by 3 and will be placed in another array.
 
+
 ### Output:
 
 ![image](https://github.com/user-attachments/assets/9674983a-a83d-4f0b-bc25-e2636592dd37)
